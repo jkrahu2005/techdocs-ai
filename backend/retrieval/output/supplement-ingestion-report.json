@@ -1,0 +1,118 @@
+{
+  "generatedAt": "2026-10-26T09:50:06.833Z",
+  "baselinePath": "/Users/rahulkumar/Desktop/techdocs-ai/backend/chunking/output/baseline-200-pages.json",
+  "supplementalPath": "/Users/rahulkumar/Desktop/techdocs-ai/backend/retrieval/output/supplemental-postgresql-19.json",
+  "expandedPath": "/Users/rahulkumar/Desktop/techdocs-ai/backend/retrieval/output/expanded-postgresql-200-pages.json",
+  "baselineChunks": 418,
+  "supplementalChunks": 275,
+  "expandedChunks": 693,
+  "fetchedPages": 13,
+  "failedPages": [],
+  "idCollisionsAgainstBaseline": [],
+  "pages": [
+    {
+      "topic": "streaming-replication",
+      "title": "Warm standby servers and streaming replication",
+      "url": "https://www.postgresql.org/docs/19/warm-standby.html",
+      "chars": 35213,
+      "chunks": 33,
+      "error": null
+    },
+    {
+      "topic": "streaming-replication",
+      "title": "pg_basebackup",
+      "url": "https://www.postgresql.org/docs/19/app-pgbasebackup.html",
+      "chars": 26004,
+      "chunks": 23,
+      "error": null
+    },
+    {
+      "topic": "scram-authentication",
+      "title": "The pg_hba.conf file",
+      "url": "https://www.postgresql.org/docs/19/auth-pg-hba-conf.html",
+      "chars": 23474,
+      "chunks": 21,
+      "error": null
+    },
+    {
+      "topic": "scram-authentication",
+      "title": "Password authentication",
+      "url": "https://www.postgresql.org/docs/19/auth-password.html",
+      "chars": 3733,
+      "chunks": 4,
+      "error": null
+    },
+    {
+      "topic": "scram-authentication",
+      "title": "Connection and authentication configuration",
+      "url": "https://www.postgresql.org/docs/19/runtime-config-connection.html",
+      "chars": 25534,
+      "chunks": 24,
+      "error": null
+    },
+    {
+      "topic": "wal-pitr",
+      "title": "Continuous archiving and point-in-time recovery",
+      "url": "https://www.postgresql.org/docs/19/continuous-archiving.html",
+      "chars": 43361,
+      "chunks": 43,
+      "error": null
+    },
+    {
+      "topic": "autovacuum",
+      "title": "Vacuuming configuration",
+      "url": "https://www.postgresql.org/docs/19/runtime-config-vacuum.html",
+      "chars": 20224,
+      "chunks": 18,
+      "error": null
+    },
+    {
+      "topic": "autovacuum",
+      "title": "Routine vacuuming",
+      "url": "https://www.postgresql.org/docs/19/routine-vacuuming.html",
+      "chars": 43531,
+      "chunks": 43,
+      "error": null
+    },
+    {
+      "topic": "logical-replication",
+      "title": "Logical replication",
+      "url": "https://www.postgresql.org/docs/19/logical-replication.html",
+      "chars": 4057,
+      "chunks": 4,
+      "error": null
+    },
+    {
+      "topic": "logical-replication",
+      "title": "Logical replication publications",
+      "url": "https://www.postgresql.org/docs/19/logical-replication-publication.html",
+      "chars": 3632,
+      "chunks": 4,
+      "error": null
+    },
+    {
+      "topic": "logical-replication",
+      "title": "Logical replication subscriptions",
+      "url": "https://www.postgresql.org/docs/19/logical-replication-subscription.html",
+      "chars": 12668,
+      "chunks": 11,
+      "error": null
+    },
+    {
+      "topic": "explain-analyze",
+      "title": "EXPLAIN",
+      "url": "https://www.postgresql.org/docs/19/sql-explain.html",
+      "chars": 14813,
+      "chunks": 14,
+      "error": null
+    },
+    {
+      "topic": "memory-tuning",
+      "title": "Resource consumption",
+      "url": "https://www.postgresql.org/docs/19/runtime-config-resource.html",
+      "chars": 35274,
+      "chunks": 33,
+      "error": null
+    }
+  ]
+}
